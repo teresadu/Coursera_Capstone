@@ -1,0 +1,11 @@
+The Battle of Suburbs
+Choose a location in Toronto to open a new coffee shop
+
+Data
+1.Neighborhood Data.
+Toronto Neighborhood Data is needed for the information of each neighbor and for extracting the restaurant data. 
+This dataset is downloaded from the website: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M.
+
+2.Geospatial Data.
+The geospatial data of Toronto is obtained from the Foursquare API. All the information related to the coordinates 
+and venues are obtained through this API. 
